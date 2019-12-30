@@ -103,9 +103,8 @@ ITEM_PIPELINES = {
 COMMANDS_MODULE = 'souhu.commands'
 
 # 配置数据库文件
-MONGODB_HOST = 'localhost'
-# MONGODB_HOST = '149.28.89.97'
-MONGODB_PORT = 27017
+MONGODB_HOST = 'xxx'
+MONGODB_PORT = 1234
 MONGODB_DBNAME = 'souhu_db'
 MONGODB_COLNAME = 'souhu_author_source'
 MONGODB_COLNAME2 = 'souhu_page'
