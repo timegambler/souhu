@@ -12,7 +12,7 @@
 
 ​	流程图如下:
 
-<img src="C:\Users\gambler\Desktop\souhu流程图.png" style="zoom:67%;" />
+<img src="https://github.com/timegambler/souhu/blob/master/img/souhu%E6%B5%81%E7%A8%8B%E5%9B%BE.png?raw=true" style="zoom:67%;" />
 
 
 
